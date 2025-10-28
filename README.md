@@ -1,2 +1,4 @@
 # Python-Homework
-# Python-Homework
+
+## นาย รฐนันท์ วสุนันต์ รหัสนักศึกษา 6812732122
+
